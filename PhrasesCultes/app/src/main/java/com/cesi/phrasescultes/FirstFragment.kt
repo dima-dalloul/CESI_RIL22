@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.navigation.fragment.findNavController
 import androidx.viewbinding.ViewBindings
@@ -60,6 +61,27 @@ class FirstFragment : Fragment() {
                 boutonAleatoire.setBackgroundColor(ContextCompat.getColor(requireActivity(), R.color.bouton_aleatoire_2))
             }
         }
+
+        // Prise en compte du Linear Layout affiché + écouteurs de boutons
+        var linearAffichage = binding.linearAffichage
+        var boutonAndroid = binding.imageView1
+        var boutonIos = binding.imageView2
+        var boutonMontagne = binding.imageView3
+
+        boutonAndroid.setOnClickListener{
+            Toast.makeText(requireActivity(), "Android", Toast.LENGTH_SHORT).show()
+        }
+
+        boutonIos.setOnClickListener{
+            Toast.makeText(requireActivity(), "iOS", Toast.LENGTH_SHORT).show()
+        }
+
+        boutonMontagne.setOnClickListener{
+            Toast.makeText(requireActivity(), "Montagne", Toast.LENGTH_SHORT).show()
+        }
+
+        // Changement de la couleur du Linear Layout
+        linearAffichage.setBackgroundColor(ContextCompat.getColor(requireActivity(), R.color.teal_200))
     }
 
     override fun onDestroyView() {

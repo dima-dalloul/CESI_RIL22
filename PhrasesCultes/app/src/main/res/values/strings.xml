@@ -62,4 +62,5 @@
     </string-array>
     <string name="app_name" translatable="false">Phrases Cultes</string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="aleatoire">Random</string>
 </resources>
