@@ -1,0 +1,65 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="phrases_cultes">
+        <item>La vie c\'est comme une boîte de chocolats, on ne sait jamais sur quoi on va tomber.</item>
+        <item>À la guerre comme à la guerre</item>
+        <item>Le gras c\'est la vie !</item>
+        <item>May the force be with you</item>
+        <item>Vous voulez un whisky ? Juste un doigt. Vous voulez pas un whisky d\'abord ?</item>
+        <item>Rien ne sert de courir, il faut partir à point</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>J\'ai l\'air fin des haricots</item>
+        <item>Un grand pouvoir implique de grandes responsabilités</item>
+        <item>Changer le monde, changer le monde vous êtes bien sympathiques mais faudrait déjà vous lever le matin</item>
+        <item>J\’ai 99 problèmes mais une tchoin n\’en est pas un</item>
+        <item>Et on lui pélera le jont comme au baillis du limousin qu\'on a pendu un beau matin AVEC SES TRIPES</item>
+        <item>De deux choses l\'une l\'autre c\'est le soleil</item>
+        <item>Quand on s\'endort avec le cul qui gratte, on se réveille avec les doigts qui puent. Proverbe chinois</item>
+        <item>C\'est pour rire, gamin</item>
+        <item>C\'est pas au vieux singe qu\'on apprend à manger des limaces</item>
+        <item>M. Gus ce qui va pas chez vous c\'est le planter de bâton !</item>
+        <item>Geek is sexy</item>
+        <item>It\'s not a bug it\'s a feature</item>
+        <item>It works on my machine</item>
+        <item>C\'est un problème de type ICM, Interface Chaise Machine</item>
+        <item>Mon nom est Bond, James Bond</item>
+        <item>Elle m\'a pas followback quand je l\'ai follow, pouloulou</item>
+        <item>Travailler d\'égal à égal ? On en reparlera quand il faudra porter quelque chose de lourd</item>
+        <item>Je sens que je vais conclure</item>
+        <item>C\’est à moi que tu parles ? C\’est à moi que tu parles ?</item>
+        <item>On a les droits ! Et pour pas cher à mon avis !</item>
+        <item>Mr Pignon, votre prénom c\'est bien Francois, c\'est juste ? Eh ben lui c\'est Juste.</item>
+        <item>Tu est un sorcier Harry</item>
+        <item>Je suis ton père!</item>
+        <item>Le rois de pirate se sera moi!</item>
+        <item>Je serais hokage</item>
+        <item>Un jour je serais le meilleur dresseur!</item>
+        <item>it\'s a fez. I wear fez now. Fez are cool.</item>
+        <item>Il va faire tout noir</item>
+        <item>Ca va couper !</item>
+        <item>Comment est votre blanquette ? Elle est bonne !</item>
+        <item>C\'est pas faux !</item>
+        <item>D\'accord, faisons comme ça !</item>
+        <item>Cent patates !</item>
+        <item>"D'accord, faisons comme ça"</item>
+        <item>"Everybody wanted to know, what i would do if i didn't win, well, i guess i'll never know"</item>
+        <item>Je reviendrai.\n- Terminator</item>
+        <item>Que la force soit avec toi.\n- Star Wars</item>
+        <item>Houston, nous avons un problème.\n- Apolo 13</item>
+        <item>Être ou ne pas être, telle est la question.\n- Shakespeare</item>
+        <item>Je reviendrai.\n- Terminator</item>
+        <item>La persévérance, paie. L\'abandon, ruine. Alors, persévère, ou tu perds sévère.</item>
+        <item>« Cela semble impossible jusqu’à ce que ce soit fait. » – Nelson Mandela</item>
+        <item>Il faut se méfier de l\'eau qui dort, surtout quand la mer ronfle.</item>
+        <item>«Le remède à l’ennui est la curiosité. Il n’y a pas de remède à la curiosité» – Ellen Parr</item>
+    </string-array>
+    <string name="app_name" translatable="false">Phrases Cultes</string>
+    <string name="second_fragment_label">Second Fragment</string>
+</resources>
