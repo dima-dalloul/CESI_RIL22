@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Work/Workspace/Workspace_Android/CESI_RIL22/CESI_RIL22/PhrasesCultes/app/src/main/res/layout/activity_main.xml" value="0.15489130434782608" />
+        <entry key="..\:/Work/Workspace/Workspace_Android/CESI_RIL22/CESI_RIL22/PhrasesCultes/app/src/main/res/layout/content_main.xml" value="0.2515625" />
+        <entry key="..\:/Work/Workspace/Workspace_Android/CESI_RIL22/CESI_RIL22/PhrasesCultes/app/src/main/res/layout/fragment_first.xml" value="0.2515625" />
         <entry key="..\:/Work/Workspace/Workspace_Android/CESI_RIL22/PhrasesCultes/app/src/main/res/layout/activity_main.xml" value="0.15670289855072464" />
         <entry key="..\:/Work/Workspace/Workspace_Android/CESI_RIL22/PhrasesCultes/app/src/main/res/layout/fragment_first.xml" value="0.15670289855072464" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="13" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

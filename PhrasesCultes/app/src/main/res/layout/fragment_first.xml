@@ -7,8 +7,8 @@
     tools:context=".FirstFragment">
 
     <TextView
-        android:id="@+id/textview_first"
-        android:layout_width="wrap_content"
+        android:id="@+id/phrase_culte_textview"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/hello_first_fragment"
         app:layout_constraintBottom_toTopOf="@id/button_first"
@@ -24,5 +24,18 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/textview_first" />
+        app:layout_constraintTop_toBottomOf="@id/phrase_culte_textview" />
+
+    <Button
+        android:id="@+id/random_phrase_button"
+        style="@android:style/Widget.Holo.Light.Button.Inset"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Aléatoire"
+        app:layout_constraintBottom_toTopOf="@+id/button_first"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/phrase_culte_textview" />
 </androidx.constraintlayout.widget.ConstraintLayout>
