@@ -41,9 +41,10 @@ class MainActivity : AppCompatActivity() {
 
         // Afficher les phrases cultes une à une
         for(phrase in phrasesCultesListe){
-
+            // Affichage sous format Log (donc dans le LogCat)
             Log.i("Phrases Cultes Activité", phrase)
 
+            // Affichage sous format de messages courts visibles pour l'utilisateur
             Toast.makeText(this, phrase, Toast.LENGTH_SHORT).show()
         }
     }
