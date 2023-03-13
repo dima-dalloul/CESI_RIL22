@@ -49,28 +49,28 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/random_phrase_button"
         android:id="@+id/linearAffichage"
-        android:color="@android:color/green">
+        android:color="@android:color/holo_green_dark">
 
         <ImageButton
             android:id="@+id/imageView1"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             tools:src="@drawable/android_icon"
-            android:contentDescription="Android" />
+            android:contentDescription="@string/android" />
 
         <ImageButton
             android:id="@+id/imageView2"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             tools:src="@drawable/ios"
-            android:contentDescriptiopm="iOS"/>
+            android:contentDescription="@string/ios"/>
 
         <ImageButton
             android:id="@+id/imageView3"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             tools:src="@drawable/mountain"
-            android:contentDescriptiopm="Montagne"/>
+            android:contentDescription="@string/mountain"/>
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

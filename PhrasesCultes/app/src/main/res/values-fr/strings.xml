@@ -8,4 +8,7 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="action_settings">Paramètres</string>
     <string name="aleatoire">Aléatoire</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="mountain">Montagne</string>
 </resources>
